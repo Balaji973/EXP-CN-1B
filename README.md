@@ -1,5 +1,7 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
+### Name:BALAJI J
+### Reg.no:212224040042
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
@@ -72,9 +74,32 @@ User authentication mechanisms are essential to ensure secure and authorized acc
 Client-server chat applications are versatile tools that facilitate real-time communication between users over a network. They incorporate various components, including server-side and client-side elements, and must consider factors such as security, scalability, and concurrency. As technology continues to advance, client-server chat applications remain integral for collaborative communication in various domains.
 
 Client-server chat applications are foundational to real-time communication over networks. They incorporate principles of socket programming, communication protocols, and security mechanisms to provide a seamless user experience. Understanding the basics of client-server chat applications is essential for developers involved in networked application development, as they form the backbone of various collaborative communication systems. As technology evolves, chat applications continue to adapt, incorporating new features and technologies to enhance user interaction and connectivity.
+## PROGRAMS
+
+## CLIENT
+
+![Screenshot 2025-05-09 144829](https://github.com/user-attachments/assets/c0468203-e1ed-472a-a229-aa69f5d7186c)
+
+
+## SERVER
+
+![Screenshot 2025-05-09 144849](https://github.com/user-attachments/assets/ce8bd414-125b-44c6-8966-83054e060598)
+
+
+
+## OUTPUT
+
+## CLIENT
+
+![Screenshot 2025-05-09 144838](https://github.com/user-attachments/assets/0e0b36bc-6fb3-45ae-be1d-d83ba3e52008)
+
+
+## SERVER
+
+![Screenshot 2025-05-09 144900](https://github.com/user-attachments/assets/8f8d2e7a-ee92-4d3a-b2b1-f93a8a1fd26a)
+
 
 
 ## Result:
 
 Thus the study on Client Server Chat Applications has been performed
-
